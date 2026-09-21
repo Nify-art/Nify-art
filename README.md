@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+![Nify's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nify-art&show_icons=true&theme=radical)
 <!--
 **Nify-art/Nify-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
